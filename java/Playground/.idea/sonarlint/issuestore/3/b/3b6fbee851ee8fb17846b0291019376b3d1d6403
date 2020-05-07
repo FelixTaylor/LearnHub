@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+R
+java:S1854"5Remove this useless assignment to local variable "s".(∞àã∏8…ì‰∏ù.
+=
+java:S2129" Remove this "String" constructor(∞àã∏8…ì‰∏ù.
+C
+java:S1481"&Remove this unused "s" local variable.(∞àã∏8…ì‰∏ù.
